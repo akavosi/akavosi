@@ -42,26 +42,18 @@ See my **[academic site](https://akavosi.github.io)** for published work, papers
 <div align="center">
 
 ### Contributions & Streak
-<a href="https://github.com/akavosi">
-  <img height="170" src="https://streak-stats.demolab.com?user=akavosi&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=akavosi&theme=github_dark&hide_border=true)
 
-### Overview & Language Distribution
-<a href="https://github.com/akavosi">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akavosi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
+### Overview & Statistics  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akavosi&show_icons=true&theme=github_dark&hide_border=true)
 
-<a href="https://github.com/akavosi">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akavosi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</a>
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akavosi&layout=compact&theme=github_dark&hide_border=true)
 
 ### Repository Metrics
 <a href="https://github.com/akavosi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akavosi&repo=akavosi.github.io&theme=github_dark&hide_border=true" alt="Featured Repo"/>
 </a>
-
-### Profile Insights
-![Profile Views](https://komarev.com/ghpvc/?username=akavosi&style=flat-square&color=blue)
 
 </div>
 
