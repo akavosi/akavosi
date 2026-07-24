@@ -37,28 +37,6 @@ See my **[academic site](https://akavosi.github.io)** for published work, papers
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-### Contributions & Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=akavosi&theme=github_dark&hide_border=true)
-
-### Overview & Statistics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akavosi&show_icons=true&theme=github_dark&hide_border=true)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akavosi&layout=compact&theme=github_dark&hide_border=true)
-
-### Repository Metrics
-<a href="https://github.com/akavosi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akavosi&repo=akavosi.github.io&theme=github_dark&hide_border=true" alt="Featured Repo"/>
-</a>
-
-</div>
-
----
-
 ## 🔗 Find Me
 
 - **Website & Research**: [akavosi.github.io](https://akavosi.github.io)
