@@ -34,6 +34,10 @@ Explore my repositories for implementations in:
 See my **[academic site](https://akavosi.github.io)** for published work, papers, and research notes.
 
 ---
+### Overview & Statistics  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akavosi&show_icons=true&theme=github_dark&hide_border=true)
+
+---
 
 ## 🔗 Find Me
 
