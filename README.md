@@ -4,7 +4,6 @@
 
 I develop autonomous decision-making systems that bridge the gap between mathematical optimization and real-world constraints. My work combines reinforcement learning, integer programming, and heuristic methods to solve complex supply chain problems at scale.
 
----
 
 ## 🎯 Research Interests
 
@@ -13,7 +12,6 @@ I develop autonomous decision-making systems that bridge the gap between mathema
 - **Reinforcement Learning**: Policy gradient methods, value-based approaches, and their application to combinatorial problems
 - **Mathematical Optimization**: Integer programming, constraint satisfaction, and hybrid algorithmic approaches
 
----
 
 ## 💻 Technical Expertise
 
@@ -21,7 +19,6 @@ I develop autonomous decision-making systems that bridge the gap between mathema
 **ML/Optimization**: PyTorch • TensorFlow • Gurobi • CPLEX • OR-Tools  
 **Specialties**: RL algorithms, mixed-integer programming, simulation-based optimization, scalable implementations
 
----
 
 ## 📚 Featured Work
 
@@ -31,9 +28,6 @@ Explore my repositories for implementations in:
 - Benchmark comparisons across algorithmic approaches
 - Production-ready optimization pipelines
 
-See my **[academic site](https://akavosi.github.io)** for published work, papers, and research notes.
-
----
 ## GitHub Streak
 <p align="center">
 <img
