@@ -17,11 +17,9 @@ I develop autonomous decision-making systems that bridge the gap between mathema
 
 ## 💻 Technical Expertise
 
-**Languages & Frameworks**: Python • Java • C++ • MATLAB  
+**Languages & Frameworks**: Python • Java • MATLAB  
 **ML/Optimization**: PyTorch • TensorFlow • Gurobi • CPLEX • OR-Tools  
 **Specialties**: RL algorithms, mixed-integer programming, simulation-based optimization, scalable implementations
-
-I select languages and tools based on problem requirements—not preferences. Python for research velocity, C++ for performance-critical systems, specialized solvers for mathematical rigor.
 
 ---
 
