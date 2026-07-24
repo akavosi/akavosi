@@ -39,7 +39,7 @@ See my **[academic site](https://akavosi.github.io)** for published work, papers
 <img
 src="https://streak-stats.demolab.com?user=akavosi&theme=github-dark-blue&hide_border=true"/>
 </p>
----
+
 
 ## 🔗 Find Me
 
