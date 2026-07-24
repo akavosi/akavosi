@@ -11,8 +11,23 @@ the right tool for each problem.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akavoosi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akavoosi&layout=compact)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=akavosi&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akavosi&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=akavosi&theme=tokyonight&hide_border=true"
+  />
 
 ---
 
